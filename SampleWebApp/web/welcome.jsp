@@ -13,7 +13,8 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
-        <title>Sample Web Application  - TestServlet</title>
+        <title>Sample Web Application TestServlet</title>
+    
         <style>
             body{
                 font-family: 'Open Sans', sans-serif;
@@ -27,6 +28,10 @@
                 font-size: 16px;
                 color: black;
             }
+h2 {
+  border: 5px solid blue;
+}
+
             </style>
     </head>
     <body>
